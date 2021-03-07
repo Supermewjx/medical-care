@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d60cdb91-289c-4196-b2c6-d6ac9981e279" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/code-template/code-template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/CodeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/CodeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/JavaTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/JavaTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/ModelInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/ModelInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/StringUtils.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code-template" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pPL9EyP4XWeBGBwWjCsqHI3fVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/system-admin/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15445544" />
+    <property name="project.structure.side.proportion" value="0.28888887" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\springcloud-1\benefit-mankind" />
+      <recent name="D:\springcloud-1\benefit-mankind\src\main\java" />
+      <recent name="D:\springcloud-1\benefit-mankind\src\test\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springcloud-1\benefit-mankind\system-admin\src\main\java" />
+      <recent name="D:\springcloud-1\benefit-mankind\registration-admin\src\main\java" />
+      <recent name="D:\springcloud-1\benefit-mankind\inquiry-admin\src\main\java" />
+      <recent name="D:\springcloud-1\benefit-mankind\hospitalization-admin\src\main\java" />
+      <recent name="D:\springcloud-1\benefit-mankind\drugStorage-admin\src\main\java\cn.bdqn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.CodeApplication" />
+      <module name="code-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d60cdb91-289c-4196-b2c6-d6ac9981e279" name="Default Changelist" comment="" />
+      <created>1615079624609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615079624609</updated>
+      <workItem from="1615079626214" duration="7603000" />
+      <workItem from="1615087312761" duration="1569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/drugStorage-admin/src/main/java/cn.bdqn/service/impl/DepartmentsServiceImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

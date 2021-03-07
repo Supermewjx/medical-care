@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: springcloud-payment-provider-service
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///hospital?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root
+
+mybatis:
+  mapper-locations: classpath:cn/bdqn/mapper/*.xml
+  type-aliases-package: cn.bdqn.domain
