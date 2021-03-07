@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d60cdb91-289c-4196-b2c6-d6ac9981e279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/code-template/code-template.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/CodeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/CodeApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/JavaTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/JavaTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/ModelInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/ModelInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/code-template/target/classes/com/itheima/code/util/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospitalization-admin/hospitalization-admin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration-admin/registration-admin.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code-template" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -47,9 +36,10 @@
   <component name="ProjectId" id="1pPL9EyP4XWeBGBwWjCsqHI3fVB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/system-admin/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,6 +109,7 @@
       <updated>1615079624609</updated>
       <workItem from="1615079626214" duration="7603000" />
       <workItem from="1615087312761" duration="1569000" />
+      <workItem from="1615121539478" duration="292000" />
     </task>
     <servers />
   </component>
